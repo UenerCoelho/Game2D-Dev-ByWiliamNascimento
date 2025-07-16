@@ -209,3 +209,43 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 8906.208297 seconds.
+  path: Assets/Script
+  artifactKey: Guid(4dc54dec6ef5b274db224637ef76c0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script using Guid(4dc54dec6ef5b274db224637ef76c0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c61dc74c9d043cceb148c6030df8d8d7') in 0.000821 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 207.860953 seconds.
+  path: Assets/Script/015-Variaveis.cs
+  artifactKey: Guid(38c96748851954140aa3412ad9781520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/015-Variaveis.cs using Guid(38c96748851954140aa3412ad9781520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '757a76f9b75dde1ecb95a9a73b77698d') in 0.000707 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 86.526181 seconds.
+  path: Assets/Script/015-Variaveis.cs
+  artifactKey: Guid(38c96748851954140aa3412ad9781520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/015-Variaveis.cs using Guid(38c96748851954140aa3412ad9781520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88d6f06ad49f889c65fdd3d8731c93f') in 0.000959 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 20.266928 seconds.
+  path: Assets/Script/015-Variaveis.cs
+  artifactKey: Guid(38c96748851954140aa3412ad9781520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/015-Variaveis.cs using Guid(38c96748851954140aa3412ad9781520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '020e5e6ac52f515314d764e80457a011') in 0.000636 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 4212.313054 seconds.
+  path: Assets/Script/Variaveis.cs
+  artifactKey: Guid(38c96748851954140aa3412ad9781520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Variaveis.cs using Guid(38c96748851954140aa3412ad9781520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3188a16da41f98ff3a5cbbaae3d197cf') in 0.000644 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
