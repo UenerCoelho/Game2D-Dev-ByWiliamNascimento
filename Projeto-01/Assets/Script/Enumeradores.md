@@ -14,7 +14,7 @@ public class Enumeradores : MonoBehaviour
     AI villainFase2 = AI.Correr;
     AI villainFase3 = AI.Atacar;
 
-    int v1 = (int)villainFase1
+    int v1 = (int)villainFase1;
 
     print(v1);
 
